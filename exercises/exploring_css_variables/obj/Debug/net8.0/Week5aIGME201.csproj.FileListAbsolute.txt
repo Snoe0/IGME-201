@@ -1,0 +1,14 @@
+C:\Projects\School\IGME\NM IGME\201\Week5aIGME201\bin\Debug\net8.0\Week5aIGME201.exe
+C:\Projects\School\IGME\NM IGME\201\Week5aIGME201\bin\Debug\net8.0\Week5aIGME201.deps.json
+C:\Projects\School\IGME\NM IGME\201\Week5aIGME201\bin\Debug\net8.0\Week5aIGME201.runtimeconfig.json
+C:\Projects\School\IGME\NM IGME\201\Week5aIGME201\bin\Debug\net8.0\Week5aIGME201.dll
+C:\Projects\School\IGME\NM IGME\201\Week5aIGME201\bin\Debug\net8.0\Week5aIGME201.pdb
+C:\Projects\School\IGME\NM IGME\201\Week5aIGME201\obj\Debug\net8.0\Week5aIGME201.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\School\IGME\NM IGME\201\Week5aIGME201\obj\Debug\net8.0\Week5aIGME201.AssemblyInfoInputs.cache
+C:\Projects\School\IGME\NM IGME\201\Week5aIGME201\obj\Debug\net8.0\Week5aIGME201.AssemblyInfo.cs
+C:\Projects\School\IGME\NM IGME\201\Week5aIGME201\obj\Debug\net8.0\Week5aIGME201.csproj.CoreCompileInputs.cache
+C:\Projects\School\IGME\NM IGME\201\Week5aIGME201\obj\Debug\net8.0\Week5aIGME201.dll
+C:\Projects\School\IGME\NM IGME\201\Week5aIGME201\obj\Debug\net8.0\refint\Week5aIGME201.dll
+C:\Projects\School\IGME\NM IGME\201\Week5aIGME201\obj\Debug\net8.0\Week5aIGME201.pdb
+C:\Projects\School\IGME\NM IGME\201\Week5aIGME201\obj\Debug\net8.0\Week5aIGME201.genruntimeconfig.cache
+C:\Projects\School\IGME\NM IGME\201\Week5aIGME201\obj\Debug\net8.0\ref\Week5aIGME201.dll
