@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classes_structs_oop", "classes_structs_oop.csproj", "{DE342AE2-1FC3-4134-A737-374FAFACCCAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE342AE2-1FC3-4134-A737-374FAFACCCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE342AE2-1FC3-4134-A737-374FAFACCCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE342AE2-1FC3-4134-A737-374FAFACCCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE342AE2-1FC3-4134-A737-374FAFACCCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {002F9CAE-E7CC-424A-B0AE-A83CBB4B5EB5}
+	EndGlobalSection
+EndGlobal
