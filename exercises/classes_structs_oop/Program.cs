@@ -9,7 +9,7 @@
 
             public Character()
             {
-                name = "Not assigned";
+                Reset();
             }
             public Character(string name)
             {
@@ -96,6 +96,13 @@
             //Inheritance
             Paladin knight = new Paladin("Sir Senior Junior", sword);
             knight.PrintStatsInfo();
+
+
+            Adventurer john = new Adventurer("John");
+            john.PrintStatsInfo();
+
+            Dude johnny = new Dude("Johnny");
+            johnny.PrintStatsInfo();
         }
     }
 }
